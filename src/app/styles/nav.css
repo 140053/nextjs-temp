@@ -1,4 +1,19 @@
 /* Nav.css */
 .nav-item.float-left {
     float: right;
-  }
+}
+
+
+.wc-nav  {
+  font-family: "Right Grotesk Compact Black";
+  font-weight: 900;
+  font-size: 16px !important;
+  color: #cbc3c3;
+  letter-spacing: .5px;
+  text-align: right;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-bottom: 1px solid transparent;
+  padding: 8px 5px;
+  margin-right: 40px;
+}

@@ -34,10 +34,10 @@ const Nav = () => {
           id="navbarScroll"
         >
          <div className="navbar-nav    text-center">
-            <a className="nav-link active" aria-current="page" href="#">Home</a>
-            <a className="nav-link" href="#">Features</a>
-            <a className="nav-link" href="#">Pricing</a>
-            <a className="nav-link  disabled" aria-disabled="true">Disabled</a>
+            <a className="nav-link active wc-nav fs-5 fw-strong" aria-current="page" href="#">Home</a>
+            <a className="nav-link wc-nav fs-5 fw-strong" href="#">Features</a>
+            <a className="nav-link wc-nav fs-5 fw-strong" href="#">Pricing</a>
+            <a className="nav-link wc-nav fs-5 fw-strong  disabled" aria-disabled="true">Disabled</a>
           </div>
 
 

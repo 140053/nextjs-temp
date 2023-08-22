@@ -1,0 +1,8 @@
+.foot{
+    background-image: url(/contact-us-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+    height: auto;
+}

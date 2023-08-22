@@ -5,3 +5,13 @@
     padding: 65px 90px;
     border-radius: 15px;
 }
+
+.bhead {
+    color: #fff;
+    font-family: "Right Grotesk Compact Black";
+    font-size: 60px;
+    line-height: 56px;
+    letter-spacing: 1px;
+    margin-top: 6px;
+    margin-bottom: 28px;
+}
