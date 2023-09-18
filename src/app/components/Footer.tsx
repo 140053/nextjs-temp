@@ -7,7 +7,7 @@ import champ from "public/contact-champion.svg"
 const Footer = () => {
 
     return(
-        <div className="container-fluid d-flex justify-content-center foot">
+        <div className="sticky-bottom container-fluid d-flex justify-content-center foot">
             <div className="row ">
                 <div className="col-xl-12 col-lg-12 col-md-12 col-sm-12 text-center">
                     <Image className="img-fluid mt-5" src={champ} alt="champ" />
